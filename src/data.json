@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "src": "",
+      "title": "Front-end",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, adipisci quia dicta reiciendis nam accusantium suscipit magnam quam id similique"
+    },
+    {
+      "id": 2,
+      "src": "",
+      "title": "UI/UX Design",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, adipisci quia quam id similique"
+    },
+    {
+      "id": 3,
+      "src": "",
+      "title": "Front-end",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, adipisci quia dicta reiciendis nam accusantium suscipit magnam quam id similique"
+    },
+    {
+      "id": 4,
+      "src": "",
+      "title": "Webflow",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae, adipisci quia dicta reiciendis nam accusantium suscipit magnam"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
